@@ -6,7 +6,7 @@ permalink: /about/
 Thomas has a keen interest in machine learning and building performant architecture. He is fluent in .NET, Java, Python, and a little rusty with Chinese and Japanese.
 
 Ongoing projects: 
-[Japan Property Analyzer]
+[Japan Property Analyzer](https://japan-property.herokuapp.com/)
 
 Overview
 Software Engineer @Rakuten, Ad Delivery Platform | Core Ad Platform Asia <- Java, Linux, Python | Hadoop, Kafka, Spark, GraphQL
