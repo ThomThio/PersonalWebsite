@@ -3,10 +3,19 @@ layout: page
 title: About
 permalink: /about/
 ---
-Software Engineer @Rakuten, Ad Delivery Platform | Core Ad Platform Asia
-Trading Engineer @Theme International Trading SPC, Electronic Market Maker
+Thomas has a keen interest in machine learning and building performant architecture. He is fluent in .NET, Java, Python, and a little rusty with Chinese and Japanese.
 
-Bsc. Information Systems | Singapore Management University
+Ongoing projects: 
+[Japan Property Analyzer]
+
+Overview
+Software Engineer @Rakuten, Ad Delivery Platform | Core Ad Platform Asia <- Java, Linux, Python | Hadoop, Kafka, Spark, GraphQL
+Trading Engineer @Theme International Trading SPC, Electronic Market Maker <- .Net, C++, Python | postgreSQL, NoSQL
+
+Bsc. Information Systems | Singapore Management University <- Java, .Net, Python, MySQL, NoSQL
+Dip. Mass Communications | Temasek Polytechnic <- php, JS, MySQL
+
+[Resume]
 
 ### More Information
 
