@@ -10,7 +10,7 @@ name: Thomas Thio
 description: Software, Investments, Life Improv
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: ''
 
 #
 # Flags below are optional
@@ -19,7 +19,7 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:thio.thomasks@gmail.com
+  email: thio.thomasks@gmail.com
   facebook:
   flickr:
   github: github.com/ThomThio
