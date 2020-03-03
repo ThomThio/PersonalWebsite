@@ -15,7 +15,7 @@ Trading Engineer @Theme International Trading SP || Electronic Market Maker | <-
 Bsc. Information Systems | Singapore Management University <- Java, .Net, Python, MySQL, NoSQL
 Dip. Mass Communications | Temasek Polytechnic <- php, JS, MySQL
 
-[Resume](/Resume.pdf)
+[Download my Resume](/Thomas_Resume.pdf)
 
 ### More Information
 
