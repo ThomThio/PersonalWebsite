@@ -7,6 +7,7 @@ Thomas has a keen interest in machine learning and building performant architect
 
 Ongoing projects: 
 [Japan Property Analyzer](https://japan-property.herokuapp.com/)
+[Japan Property Analyzer name](https://japan-property.herokuapp.com/){:target="_blank"}
 
 Overview
 Software Engineer @Rakuten || Ad Delivery Platform | Core Ad Platform Asia | <- Java, Linux, Python | Hadoop, Kafka, Spark, GraphQL
