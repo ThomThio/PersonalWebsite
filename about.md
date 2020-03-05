@@ -9,8 +9,12 @@ Ongoing projects:
 [Japan Property Analyzer](https://japan-property.herokuapp.com/){:target="_blank"}
 
 Overview
-- Software Engineer @Rakuten || Ad Delivery Platform | Core Ad Platform Asia | <- Java, Linux, Python | Hadoop, Kafka, Spark, GraphQL
-- Trading Engineer @Theme International Trading SP || Electronic Market Maker | <- .Net, C++, Python | postgreSQL, NoSQL
+- Software Engineer @Rakuten | Ad Delivery Platform | Core Ad Platform Asia
+	- Java, Linux, Python | Hadoop, Kafka, Redis
+
+- Trading Engineer @Theme International Trading SP | Electronic Market Maker
+	- .Net, C++, Python | postgreSQL, NoSQL
+	- PyTorch
 
 - Bsc. Information Systems | Singapore Management University <- Java, .Net, Python, MySQL, NoSQL
 - Dip. Mass Communications | Temasek Polytechnic <- php, JS, MySQL
