@@ -26,7 +26,7 @@ Overview
 ### Achievements
 - Featured on [ChannelNewsAsia](https://www.straitstimes.com/singapore/eat-drink-but-maybe-give-the-toilet-a-miss){:target="_blank"} for nationwide statistics project
 - Featured on [national news](https://www.8world.com/news/singapore/article/20170524-sg-smumfa-tech-53646){:target="_blank"} and [university blog](https://news.smu.edu.sg/news/2017/05/26/smu-students-suggest-speedier-and-more-streamlined-processes-eregister-ministry){:target="_blank"} for recommendations to Ministry of Foreign Affairs.
-- Represented Temasek Polytechnic (POLITE, IVP) and Singapore Chinese Football Club (NFL Divsion 2), clinching 2nd for each
+- Represented Temasek Polytechnic (POLITE/IVP 2009,2010) and Singapore Chinese Football Club (2010 NFL Division 2), clinching 2nd for each
 - 13th Start-up Singapore Finalist at National University of Singapore
 
 ### Contact Me
