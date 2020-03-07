@@ -2,13 +2,13 @@
 layout: post
 title: Automating Property Analysis in Japan
 ---
+WIP:
 
 Ever wondered how to see the best choices for anything at a glance? This project on property analysis in Japan aims to bring users a few steps closer to that - by combining relevant data, providing tools to filter out bad choices, and only seeing what matters.
 
-[Visualization Tool Here](https://japan-property.herokuapp.com/)
+[Visualization Tool Here](https://japan-property.herokuapp.com/){:target="_blank"}
 
 
-template per portfolio post
 	- Motivation
 		A seamless investment experience, to instantly spot opportunities and call your broker/agent. Think of comparing computer specs side by side - why can't we do the same for properties, or investments per see?
 
@@ -38,6 +38,7 @@ template per portfolio post
 		    Comparing d) and e), we can ask: Do properties command higher yields even if they were nearer to a station? This implies property prices increasing the closer they are to a station, yet rents may or may not be high in relation to the distance.
 
 		    This is the result:
+		    [SCREENSHOT]
 
 	- Model
 
@@ -110,3 +111,4 @@ template per portfolio post
 
 
 	- Building further
+		In the next post, we go through some of the pitfalls from analyzing this way. There is definately something we missed, and quantitative data cannot capture that. Additionally, there are some perspectives that an agent can provide that buyers normally cannot access. Can we be wholly certain what we are seeing is the 'best'? Let's find out [Next](LINK)
