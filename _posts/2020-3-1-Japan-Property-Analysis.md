@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Fuss Free Property Analysis in Japan
+title: Automating Property Analysis in Japan
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Ever wondered how to see the best choices for anything at a glance? This project on property analysis in Japan aims to bring users a few steps closer to that - by combining relevant data, providing tools to filter out bad choices, and only seeing what matters.
 
 [Visualization Tool Here](https://japan-property.herokuapp.com/)
 
