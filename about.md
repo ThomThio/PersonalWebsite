@@ -5,6 +5,9 @@ permalink: /about/
 ---
 Thomas has a keen interest in delivering new value through machine learning and building performant architecture. He is fluent in .NET, Java, Python, and a little rusty with Chinese and Japanese.
 
+#Works#
+[Portfolio here](https://pathbrite.com/portfolio/PY5JEcP2e/the-works-of-thomas)
+
 #Ongoing projects#
 [Japan Property Analyzer](https://japan-property.herokuapp.com/){:target="_blank"}
 
