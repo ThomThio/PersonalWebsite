@@ -9,6 +9,7 @@ name: Thomas Thio
 # Short bio or description (displayed in the header)
 description: Software, Investments, Life Improv
 
+[Portfolio here](https://www.google.com/url?sa=t&source=web&rct=j&url=https://pathbrite.com/portfolio/PY5JEcP2e/the-works-of-thomas&ved=2ahUKEwi2wvDt54noAhXKBKYKHZCJC9YQFjAAegQIEBAC&usg=AOvVaw3yMZDZBBfvizJs3l9OZSdC)
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: ''
 
@@ -22,9 +23,9 @@ footer-links:
   email: thio.thomasks@gmail.com
   facebook:
   flickr:
-  github: https://github.com/ThomThio
+  github: ThomThio
   instagram:
-  linkedin: https://www.linkedin.com/in/thomasthio/
+  linkedin: thomasthio
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
