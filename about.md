@@ -4,8 +4,8 @@ title: About
 permalink: "/about/"
 
 ---
-Thomas has a keen interest in bringing value to organizations through performant architecture and using automated and machine learning technology to optimize revenue generating activities. He is fluent in .NET, Java, Python, and a little rusty with Chinese and Japanese.
-
+Thomas has a keen interest in bringing value to organizations through performant architecture and using automated and machine learning technology to optimize revenue generating activities. He is fluent in .NET, Java, Python, and a little rusty with Chinese and Japanese.  
+  
 **Works  
 **[Portfolio here](https://pathbrite.com/portfolio/PY5JEcP2e/the-works-of-thomas){:target="_blank"}
 
@@ -23,9 +23,12 @@ Thomas has a keen interest in bringing value to organizations through performant
   * .Net, C++, Python, postgreSQL, NoSQL, pyTorch
   * Built automated trading systems, market data pipeplines, order management systems.
 
-* Singapore Management University  
-  _Bsc. Information Systems_ 
-  * Java, .Net, Python, MySQL, NoSQL
+Singapore Management University  
+_Bsc. Information Systems_ 
+
+* Java, .Net, Python, MySQL, NoSQL
+
+
 * Temasek Polytechnic  
   _Dip. Mass Communications_
   * php, JS, MySQL
